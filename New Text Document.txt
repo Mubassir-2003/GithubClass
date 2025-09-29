@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 kichu ekta likhlam.
+=======
+Tmk pidi dibo.
+amio tomake pidi dibo. siting hoye geso onek.
+kitkat dibo na.
+shingara ekai khao
+>>>>>>> f47053af87e96dac8065ec9033e6994ed8b28b7e
